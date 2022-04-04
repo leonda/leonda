@@ -14,8 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-梦里披荆斩棘铮铮之铁衣，
-已乘昨夜长风随波东流去。
-城外马歇摇首顿蹄 ，
-鹏举瞰冷雨 ，
-只叹普天之下垂成的同庆。
+云烟成雨
